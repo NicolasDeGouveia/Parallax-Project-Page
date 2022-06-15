@@ -1,0 +1,23 @@
+.midtext {
+  width: 100%;
+  height: 100%;
+  max-height: 1000px;
+  margin: 4rem 0;
+  position: relative;
+
+  &__container {
+    width: 100%;
+    height: 100%;
+
+    & h1 {
+      text-align: center;
+      font-size: 3rem;
+      text-transform: uppercase;
+    }
+    & p {
+      text-align: justify;
+      font-size: 1.2rem;
+      padding: 3rem;
+    }
+  }
+}

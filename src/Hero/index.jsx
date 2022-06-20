@@ -37,7 +37,7 @@ export default function Hero() {
         alt=""
         style={{ top: `${value + offSet * 0.15 + "px"}` }}
       />
-      <h2 style={{ top: `${value + offSet * 0.8 + "px"}` }}>In to the wild</h2>
+      <h2 style={{ top: `${value + offSet * 0.8 + "px"}` }}>Into the wild</h2>
     </section>
   );
 }

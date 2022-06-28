@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Parallax-Project-Page/static/css/main.ae5321b7.css",
+    "main.js": "/Parallax-Project-Page/static/js/main.9eacbe29.js",
+    "static/media/cascade.mp4": "/Parallax-Project-Page/static/media/cascade.f50e35fca0b489a1d5b7.mp4",
+    "static/media/road.png": "/Parallax-Project-Page/static/media/road.60b9ca472b6788f180c5.png",
+    "static/media/mountain.png": "/Parallax-Project-Page/static/media/mountain.0829473c494546eca2f7.png",
+    "static/media/wild.jpg": "/Parallax-Project-Page/static/media/wild.208485c876a7e733b31f.jpg",
+    "static/media/bg.jpg": "/Parallax-Project-Page/static/media/bg.d3cadcf326191a5d274e.jpg",
+    "static/media/sauvage.jpg": "/Parallax-Project-Page/static/media/sauvage.3f2f1d681755c078d963.jpg",
+    "static/media/moon.png": "/Parallax-Project-Page/static/media/moon.22aa4ef00663e15041ec.png",
+    "index.html": "/Parallax-Project-Page/index.html",
+    "main.ae5321b7.css.map": "/Parallax-Project-Page/static/css/main.ae5321b7.css.map",
+    "main.9eacbe29.js.map": "/Parallax-Project-Page/static/js/main.9eacbe29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae5321b7.css",
+    "static/js/main.9eacbe29.js"
+  ]
+}
